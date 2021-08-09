@@ -19,7 +19,7 @@
 *   In this lesson, four Basque names will be introduced:
     *   Aitor (male name)
     *   Mikel (male name)
-    *   Terese (female name)
+    *   Uxue (female name)
     *   Miren (female name)
 
 ## Single Pronouns and IZAN (to be)
@@ -55,14 +55,18 @@ __Bat(one):__ The word "bat" (one) is used as an adjective, so the accompanying 
 + Gizona naiz. - I am the man.
 
 ### Vocabulary Basics 1
-*   gizon: man
-*   emakume: woman
-*   mutil: boy
-*   neska: a/the girl
-*   ni naiz: I am
-*   zu zara: you are
-*   hura da: he/she/it is
-*   bat: one
-*   kaizo: hello
+*   Gizona: Man
+*   Emakumea: Woman
+*   Mutila: Boy
+*   Neska: Girl
+*   Ni naiz: I am
+*   Zu zara: You are
+*   Hura da: He/She/It is
+*   Bat: One
+*   Kaixo: Hello
+*   Agur: Bye
+*   Gero Arte: See you later
+*   Egun on: Good morning
+*   Zer moduz zaude?: How are you?
 
 [ Go Back to Home Page!](..)
