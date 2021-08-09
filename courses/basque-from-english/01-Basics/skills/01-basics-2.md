@@ -30,8 +30,9 @@ Also, if the indefinite form of the word ends in an "r", for the Single Definite
 *   ere: also
 *   ikasle: student
 *   ikaslea: the student
-*   irakalse: teacher
-*   irakalsea : the teacher
+*   irakasle: teacher
+*   irakaslea : the teacher
 *   Epa!: Hi!
+*   Aupa!: Hi!
 
 [ Go Back to Home Page!](..)
