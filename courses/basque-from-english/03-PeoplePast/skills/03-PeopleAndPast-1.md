@@ -3,12 +3,12 @@ In this lesson you will learn the names of some of the professions you will like
 
 ## Vocabulary People and Past 1
 
-* Erizain: Nurse
-* Gideri: Driver
-* Ikasle: Student
-* Mediku: Doctor
-* Polizia: Police officer
+* Erizaina: Nurse
+* Gidaria: Driver
+* Ikaslea: Student
+* Medikua: Doctor
+* Polizia/Ertzaintza: Police
 * Tour gida: Tour guide
-* Turist: Tourist
+* Turista: Tourist
 
 [ Go Back to Home Page!](..)
